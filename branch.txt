@@ -1,1 +1,2 @@
-This is foo branch.txt!
+This is bar
+ branch.txt!
